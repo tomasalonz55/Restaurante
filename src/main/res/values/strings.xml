@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Principal</string>
+    <string name="title_activity_pedido">Pedido</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_orden">OrdenActivity</string>
+    <string name="title_activity_nueva_orden">NuevaOrdenActivity</string>
+    <string name="title_activity_platos">platosActivity</string>
+
+
+</resources>
