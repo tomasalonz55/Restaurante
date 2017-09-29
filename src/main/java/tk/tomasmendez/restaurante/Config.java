@@ -5,7 +5,7 @@ package tk.tomasmendez.restaurante;
  */
 
 public class Config {
-    public static final String ip="192.168.1.6/";
+    public static final String ip="192.168.1.9/";
     //URL to our login.php file
     public static final String LOGIN_URL = "http://"+ip+"restaurante/php/login.php";
     public static final String URL_GET_ALL = "http://"+ip+"restaurante/php/verTodasOrdenesActivas.php";
